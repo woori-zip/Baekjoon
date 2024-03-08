@@ -1,7 +1,7 @@
 ## 😊 Baekjoon (c++)
 백준에서 푼 문제들을 <a href="https://solved.ac/problems/level">`solved.ac`</a>기준으로 나눠 정리했습니다.<br><br>
 
-🥉 Bronze <br>
+🥉 <a href="https://github.com/woori-zip/Baekjoon/tree/main/%F0%9F%A5%89%20Bronze">Bronze</a> <br>
 🥈 Silver <br>
 🥇 Gold <br>
 💚 Platinum <br>
